@@ -1,0 +1,28 @@
+#add_to_wallet{
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    padding: 6px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+#book_movies{
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    padding: 6px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+#amount{
+height: 30px;
+width: 300px;
+margin-bottom: 50px;
+
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 170px;
+}
